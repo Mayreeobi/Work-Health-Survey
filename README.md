@@ -4,13 +4,13 @@
 A comprehensive SQL-based analysis of workplace mental health, burnout, and work-life balance using data from a health survey conducted between June 1st – June 26th, 2025. This project explores respondent demographics, regional and gender-based burnout patterns, and weekday trends in employee wellness.
 
 ## Project Structure
-📂 workhealth-survey-analysis
-│
-├── 📄 README.md
-├── 📄 WorkHealthSurvey_Analysis.sql      -- Main SQL script for analysis
-├── 📊 Dashboard_Design_Wireframe.png     -- Visual layout for Tableau/Power BI
-└── 📁 data/
-    └── workhealth_survey_sample.csv       -- ([dataset](https://www.kaggle.com/datasets/kshitijsaini121/remote-work-of-health-impact-survey-june-2025/data))
+- 📂 workhealth-survey-analysis
+- │
+- ├── 📄 README.md
+- ├── 📄 WorkHealthSurvey_Analysis.sql      -- Main SQL script for analysis
+- ├── 📊 Dashboard_Design_Wireframe.png     -- Visual layout for Tableau/Power BI
+- └── 📁 data/
+    - └── workhealth_survey_sample.csv       -- ([dataset](https://www.kaggle.com/datasets/kshitijsaini121/remote-work-of-health-impact-survey-june-2025/data))
 
 
 ### Objectives
@@ -44,19 +44,10 @@ A comprehensive SQL-based analysis of workplace mental health, burnout, and work
 | **Weekday** | Day of the week (derived from date) |
 
 ### 🔍 Key Analysis Sections (SQL Scripts)
-✅ Descriptive Stats: * Total respondent count * Age and gender distribution * Region-based participation
-🧠 Health & Burnout Metrics: * Burnout levels by job role and gender * Distribution of mental and physical health issues * Average work-life balance and isolation scores
-🗓️ Time-Based Trend Analysis: * Daily trends (June 1–26) in participation, burnout, and well-being * Weekday patterns (Monday to Sunday)
+- ✅ Descriptive Stats: * Total respondent count * Age and gender distribution * Region-based participation
+- 🧠 Health & Burnout Metrics: * Burnout levels by job role and gender * Distribution of mental and physical health issues * Average work-life balance and isolation scores
+- 🗓️ Time-Based Trend Analysis: * Daily trends (June 1–26) in participation, burnout, and well-being * Weekday patterns (Monday to Sunday)
 
-📌 Includes logic to sort weekdays in natural order using CASE statements.
-
-📊 Suggested Visualizations (Dashboard)
-Chart Type	Metric
-Bar Chart	Respondents by Gender / Region
-Line Chart	Daily Survey Participation
-Stacked Bar Chart	Burnout by Weekday / Gender
-Heatmap	Work-Life Balance by Weekday
-Line Chart	Avg Social Isolation Score
 
 ### 🚀 How to Use
 1. Clone the repository: git clone https://github.com/yourusername/workhealth-survey-analysis.git
