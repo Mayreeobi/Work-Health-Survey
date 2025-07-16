@@ -15,10 +15,10 @@ This project presents a comprehensive SQL-based analysis of workplace mental hea
 ```
       
 - 🔗  [SQL Script Here](https://github.com/Mayreeobi/Work-Health-Survey/blob/main/2025%20Work%20Health%20Survey.sql)
-- 🔗  Interactive Dashboard coming soon
+- 🔗  [Interactive Dashboard](https://public.tableau.com/views/WorkHealthSurvey/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 - 🔗  [Dataset on Kaggle](https://www.kaggle.com/datasets/kshitijsaini121/remote-work-of-health-impact-survey-june-2025/data)
 
-### Objectives
+### Objectives  
 1. Analyze survey participation and demographic distribution
 2. Assess mental and physical health patterns
 3. Explore burnout rates by job roles, gender, and weekday
