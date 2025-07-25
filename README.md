@@ -53,6 +53,8 @@ This project presents a comprehensive SQL-based analysis of workplace mental hea
 -  Health & Burnout Metrics: * Burnout levels by job role and gender * Distribution of mental and physical health issues * Average work-life balance and isolation scores
 -  Time-Based Trend Analysis: * Daily trends (June 1–26) in participation, burnout, and well-being * Weekday patterns (Monday to Sunday)
 
+  ![](https://github.com/Mayreeobi/Work-Health-Survey/blob/main/Work%20Health%20Survey%20Dashboard.png)
+
 
 ### How to Use
 1. Clone the repository: 
